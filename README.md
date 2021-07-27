@@ -1,7 +1,7 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
+# KNN for Detecting Adversarial Attacks on Computer Networks
 ## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
 
 <!--
@@ -9,10 +9,10 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [Ron Merculief](https://github.com/cbaker6) - `University of Alaska Anchorage`
+- [Abraham Mitchell](https://github.com/cbaker6) - `University of Arkansas` 
+- [Claudia Mercado](https://github.com/cbaker6) - `University of Arkansas` 
+
 
 ## Description
 <!--
