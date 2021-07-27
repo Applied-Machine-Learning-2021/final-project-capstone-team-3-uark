@@ -10,7 +10,7 @@ link to each members respective GitHub profile
 -->
 Developed by: 
 - [Ron Merculief](https://github.com/cbaker6) - `University of Alaska Anchorage`
-- [Abraham Mitchell] (https://github.com/Abraham-Mitchell) - `University of Arkansas` 
+- [Abraham Mitchell](https://github.com/Abraham-Mitchell) - `University of Arkansas` 
 - [Claudia Mercado](https://github.com/cbaker6) - `University of Arkansas` 
 
 
