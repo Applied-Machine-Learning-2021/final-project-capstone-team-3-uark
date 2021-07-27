@@ -9,7 +9,7 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [Ron Merculief](https://github.com/cbaker6) - `University of Alaska Anchorage`
+- [Ron Merculief](https://github.com/lrmerculief) - `University of Alaska Anchorage`
 - [Abraham Mitchell](https://github.com/Abraham-Mitchell) - `University of Arkansas` 
 - [Claudia Mercado](https://github.com/cbaker6) - `University of Arkansas` 
 
