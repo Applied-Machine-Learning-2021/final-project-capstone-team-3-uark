@@ -2,7 +2,7 @@
 Name of your teams' final project
 -->
 # KNN for Detecting Adversarial Attacks on Computer Networks
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
+## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the University of Arkansas
 
 <!--
 List all of the members who developed the project and
